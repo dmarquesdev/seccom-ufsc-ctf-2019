@@ -5,7 +5,9 @@
 Navegando pela dark web, achamos um site bem suspeito... será que você consegue descobrir do que se trata?
 ```
 **Pontuação**: 100
-**Dica**: 
+
+**Dica**:
+
 **Dica (anunciada)**: Você já parou pra pensar como a IA avançou? os robôs do Google sabem de tudo hoje em dia, até alguns segredos bem guardados!
 
 ### Write-up

@@ -5,6 +5,7 @@
 Todos os desafios possuem dicas, que tem um custo fixo de 50 pontos. Que tal começar com o pé direito hein?
 ```
 **Pontuação**: 50
+
 **Dica (anunciada)**: https://lmgtfy.com/?q=string+with+%3D%3D+at+the+end
 
 ### Write-up

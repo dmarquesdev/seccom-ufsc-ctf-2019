@@ -5,6 +5,7 @@
 Você foi contratado para testar a segurança de um revolucionário sistema de colaboração entre voluntários. Será que existe algum problema nele?
 ```
 **Pontuação**: 200
+
 **Dica**: Não tem nenhuma ferramenta esquisita ai não?
 
 **OBS**: O servidor mudou de IP entre algumas screenshots do write-up, mas é o mesmo ambiente

@@ -15,8 +15,11 @@ O pessoal do restaurante não entendeu nada... será que você consegue desvenda
 Flag: SECCOM-2019{xxx}
 ```
 **Pontuação**: 100
+
 **Dica**: Tudo está na descrição. Vinagrete vem antes de César.
+
 **Dica (anunciada)**: https://www.dcode.fr/en
+
 **Dica (anunciada) 2**: ANTES DE TODAS AS CIFRAS ROBUSTAS QUE TEMOS HOJE, EXISTIU UM TEMPO ONDE EXISTIAM AS CONHECIDAS CIFRAS CLÁSSICAS
 
 ### Write-up
